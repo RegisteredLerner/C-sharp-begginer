@@ -1,0 +1,15 @@
+D:\csharp\GalacticTravelAgency\bin\Debug\net9.0\GalacticTravelAgency.exe
+D:\csharp\GalacticTravelAgency\bin\Debug\net9.0\GalacticTravelAgency.deps.json
+D:\csharp\GalacticTravelAgency\bin\Debug\net9.0\GalacticTravelAgency.runtimeconfig.json
+D:\csharp\GalacticTravelAgency\bin\Debug\net9.0\GalacticTravelAgency.dll
+D:\csharp\GalacticTravelAgency\bin\Debug\net9.0\GalacticTravelAgency.pdb
+D:\csharp\GalacticTravelAgency\obj\Debug\net9.0\GalacticTravelAgency.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\GalacticTravelAgency\obj\Debug\net9.0\GalacticTravelAgency.AssemblyInfoInputs.cache
+D:\csharp\GalacticTravelAgency\obj\Debug\net9.0\GalacticTravelAgency.AssemblyInfo.cs
+D:\csharp\GalacticTravelAgency\obj\Debug\net9.0\GalacticTravelAgency.csproj.CoreCompileInputs.cache
+D:\csharp\GalacticTravelAgency\obj\Debug\net9.0\GalacticTravelAgency.sourcelink.json
+D:\csharp\GalacticTravelAgency\obj\Debug\net9.0\GalacticTravelAgency.dll
+D:\csharp\GalacticTravelAgency\obj\Debug\net9.0\refint\GalacticTravelAgency.dll
+D:\csharp\GalacticTravelAgency\obj\Debug\net9.0\GalacticTravelAgency.pdb
+D:\csharp\GalacticTravelAgency\obj\Debug\net9.0\GalacticTravelAgency.genruntimeconfig.cache
+D:\csharp\GalacticTravelAgency\obj\Debug\net9.0\ref\GalacticTravelAgency.dll
