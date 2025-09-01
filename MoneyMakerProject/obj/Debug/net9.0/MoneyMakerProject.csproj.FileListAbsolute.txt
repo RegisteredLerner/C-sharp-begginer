@@ -1,0 +1,15 @@
+D:\csharp\MoneyMakerProject\bin\Debug\net9.0\MoneyMakerProject.exe
+D:\csharp\MoneyMakerProject\bin\Debug\net9.0\MoneyMakerProject.deps.json
+D:\csharp\MoneyMakerProject\bin\Debug\net9.0\MoneyMakerProject.runtimeconfig.json
+D:\csharp\MoneyMakerProject\bin\Debug\net9.0\MoneyMakerProject.dll
+D:\csharp\MoneyMakerProject\bin\Debug\net9.0\MoneyMakerProject.pdb
+D:\csharp\MoneyMakerProject\obj\Debug\net9.0\MoneyMakerProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\MoneyMakerProject\obj\Debug\net9.0\MoneyMakerProject.AssemblyInfoInputs.cache
+D:\csharp\MoneyMakerProject\obj\Debug\net9.0\MoneyMakerProject.AssemblyInfo.cs
+D:\csharp\MoneyMakerProject\obj\Debug\net9.0\MoneyMakerProject.csproj.CoreCompileInputs.cache
+D:\csharp\MoneyMakerProject\obj\Debug\net9.0\MoneyMakerProject.sourcelink.json
+D:\csharp\MoneyMakerProject\obj\Debug\net9.0\MoneyMakerProject.dll
+D:\csharp\MoneyMakerProject\obj\Debug\net9.0\refint\MoneyMakerProject.dll
+D:\csharp\MoneyMakerProject\obj\Debug\net9.0\MoneyMakerProject.pdb
+D:\csharp\MoneyMakerProject\obj\Debug\net9.0\MoneyMakerProject.genruntimeconfig.cache
+D:\csharp\MoneyMakerProject\obj\Debug\net9.0\ref\MoneyMakerProject.dll
