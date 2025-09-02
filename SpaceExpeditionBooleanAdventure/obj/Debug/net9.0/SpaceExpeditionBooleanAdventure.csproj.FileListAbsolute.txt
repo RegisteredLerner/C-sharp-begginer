@@ -1,0 +1,15 @@
+D:\csharp\SpaceExpeditionBooleanAdventure\bin\Debug\net9.0\SpaceExpeditionBooleanAdventure.exe
+D:\csharp\SpaceExpeditionBooleanAdventure\bin\Debug\net9.0\SpaceExpeditionBooleanAdventure.deps.json
+D:\csharp\SpaceExpeditionBooleanAdventure\bin\Debug\net9.0\SpaceExpeditionBooleanAdventure.runtimeconfig.json
+D:\csharp\SpaceExpeditionBooleanAdventure\bin\Debug\net9.0\SpaceExpeditionBooleanAdventure.dll
+D:\csharp\SpaceExpeditionBooleanAdventure\bin\Debug\net9.0\SpaceExpeditionBooleanAdventure.pdb
+D:\csharp\SpaceExpeditionBooleanAdventure\obj\Debug\net9.0\SpaceExpeditionBooleanAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\SpaceExpeditionBooleanAdventure\obj\Debug\net9.0\SpaceExpeditionBooleanAdventure.AssemblyInfoInputs.cache
+D:\csharp\SpaceExpeditionBooleanAdventure\obj\Debug\net9.0\SpaceExpeditionBooleanAdventure.AssemblyInfo.cs
+D:\csharp\SpaceExpeditionBooleanAdventure\obj\Debug\net9.0\SpaceExpeditionBooleanAdventure.csproj.CoreCompileInputs.cache
+D:\csharp\SpaceExpeditionBooleanAdventure\obj\Debug\net9.0\SpaceExpeditionBooleanAdventure.sourcelink.json
+D:\csharp\SpaceExpeditionBooleanAdventure\obj\Debug\net9.0\SpaceExpeditionBooleanAdventure.dll
+D:\csharp\SpaceExpeditionBooleanAdventure\obj\Debug\net9.0\refint\SpaceExpeditionBooleanAdventure.dll
+D:\csharp\SpaceExpeditionBooleanAdventure\obj\Debug\net9.0\SpaceExpeditionBooleanAdventure.pdb
+D:\csharp\SpaceExpeditionBooleanAdventure\obj\Debug\net9.0\SpaceExpeditionBooleanAdventure.genruntimeconfig.cache
+D:\csharp\SpaceExpeditionBooleanAdventure\obj\Debug\net9.0\ref\SpaceExpeditionBooleanAdventure.dll
