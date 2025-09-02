@@ -1,0 +1,15 @@
+D:\csharp\MadLibsProject\bin\Debug\net9.0\MadLibsProject.exe
+D:\csharp\MadLibsProject\bin\Debug\net9.0\MadLibsProject.deps.json
+D:\csharp\MadLibsProject\bin\Debug\net9.0\MadLibsProject.runtimeconfig.json
+D:\csharp\MadLibsProject\bin\Debug\net9.0\MadLibsProject.dll
+D:\csharp\MadLibsProject\bin\Debug\net9.0\MadLibsProject.pdb
+D:\csharp\MadLibsProject\obj\Debug\net9.0\MadLibsProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\MadLibsProject\obj\Debug\net9.0\MadLibsProject.AssemblyInfoInputs.cache
+D:\csharp\MadLibsProject\obj\Debug\net9.0\MadLibsProject.AssemblyInfo.cs
+D:\csharp\MadLibsProject\obj\Debug\net9.0\MadLibsProject.csproj.CoreCompileInputs.cache
+D:\csharp\MadLibsProject\obj\Debug\net9.0\MadLibsProject.sourcelink.json
+D:\csharp\MadLibsProject\obj\Debug\net9.0\MadLibsProject.dll
+D:\csharp\MadLibsProject\obj\Debug\net9.0\refint\MadLibsProject.dll
+D:\csharp\MadLibsProject\obj\Debug\net9.0\MadLibsProject.pdb
+D:\csharp\MadLibsProject\obj\Debug\net9.0\MadLibsProject.genruntimeconfig.cache
+D:\csharp\MadLibsProject\obj\Debug\net9.0\ref\MadLibsProject.dll
