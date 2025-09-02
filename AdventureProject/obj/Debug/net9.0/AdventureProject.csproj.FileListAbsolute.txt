@@ -1,0 +1,15 @@
+D:\csharp\AdventureProject\bin\Debug\net9.0\AdventureProject.exe
+D:\csharp\AdventureProject\bin\Debug\net9.0\AdventureProject.deps.json
+D:\csharp\AdventureProject\bin\Debug\net9.0\AdventureProject.runtimeconfig.json
+D:\csharp\AdventureProject\bin\Debug\net9.0\AdventureProject.dll
+D:\csharp\AdventureProject\bin\Debug\net9.0\AdventureProject.pdb
+D:\csharp\AdventureProject\obj\Debug\net9.0\AdventureProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\AdventureProject\obj\Debug\net9.0\AdventureProject.AssemblyInfoInputs.cache
+D:\csharp\AdventureProject\obj\Debug\net9.0\AdventureProject.AssemblyInfo.cs
+D:\csharp\AdventureProject\obj\Debug\net9.0\AdventureProject.csproj.CoreCompileInputs.cache
+D:\csharp\AdventureProject\obj\Debug\net9.0\AdventureProject.sourcelink.json
+D:\csharp\AdventureProject\obj\Debug\net9.0\AdventureProject.dll
+D:\csharp\AdventureProject\obj\Debug\net9.0\refint\AdventureProject.dll
+D:\csharp\AdventureProject\obj\Debug\net9.0\AdventureProject.pdb
+D:\csharp\AdventureProject\obj\Debug\net9.0\AdventureProject.genruntimeconfig.cache
+D:\csharp\AdventureProject\obj\Debug\net9.0\ref\AdventureProject.dll
