@@ -1,0 +1,15 @@
+D:\csharp\ArchitectProject\bin\Debug\net9.0\ArchitectProject.exe
+D:\csharp\ArchitectProject\bin\Debug\net9.0\ArchitectProject.deps.json
+D:\csharp\ArchitectProject\bin\Debug\net9.0\ArchitectProject.runtimeconfig.json
+D:\csharp\ArchitectProject\bin\Debug\net9.0\ArchitectProject.dll
+D:\csharp\ArchitectProject\bin\Debug\net9.0\ArchitectProject.pdb
+D:\csharp\ArchitectProject\obj\Debug\net9.0\ArchitectProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\ArchitectProject\obj\Debug\net9.0\ArchitectProject.AssemblyInfoInputs.cache
+D:\csharp\ArchitectProject\obj\Debug\net9.0\ArchitectProject.AssemblyInfo.cs
+D:\csharp\ArchitectProject\obj\Debug\net9.0\ArchitectProject.csproj.CoreCompileInputs.cache
+D:\csharp\ArchitectProject\obj\Debug\net9.0\ArchitectProject.sourcelink.json
+D:\csharp\ArchitectProject\obj\Debug\net9.0\ArchitectProject.dll
+D:\csharp\ArchitectProject\obj\Debug\net9.0\refint\ArchitectProject.dll
+D:\csharp\ArchitectProject\obj\Debug\net9.0\ArchitectProject.pdb
+D:\csharp\ArchitectProject\obj\Debug\net9.0\ArchitectProject.genruntimeconfig.cache
+D:\csharp\ArchitectProject\obj\Debug\net9.0\ref\ArchitectProject.dll
